@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <string name="name_edit_text">Name</string>
+    <string name="age_edit_text">Age</string>
+    <string name="general_header">General</string>
+    <string name="IQ_header">IQ Test:</string>
+    <string name="spinner_title">Gender</string>
+    <string name="email">Email</string>
+
+    <string name="Q1">1. At a conference, 12 members shook hands with each other before and after the meeting. How many total number of hand shakes occurred?</string>
+    <string name="ans_edit_text">Answer</string>
+
+    <string name="Q2">2. Book is to Reading as Fork is to:</string>
+        <string name="a_2">drawing</string>
+        <string name="b_2">writing</string>
+        <string name="c_2">stirring</string>
+        <string name="d_2">eating</string>
+
+    <string name="Q3">3. (Multiple Choice)Which of the following is not a type of cat: </string>
+        <string name="a_3">Leopard</string>
+        <string name="b_3">Cheetah</string>
+        <string name="c_3">Antelope</string>
+        <string name="d_3">Jaguar</string>
+
+    <string name="Q4">4. Which number should come next in the series?\n1 1 2 3 5 8 13</string>
+        <string name="a_4">20</string>
+        <string name="b_4">21</string>
+        <string name="c_4">19</string>
+        <string name="d_4">22</string>
+
+    <string name="Q5">5. Mary, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother?</string>
+
+    <string name="Q6">6. Forest is to tree as tree is to ?</string>
+
+    <string name="Q7">7. Choose the number that is 1/4 of 1/2 of 1/5 of 400: </string>
+        <string name="a_7">7</string>
+        <string name="b_7">5</string>
+        <string name="c_7">8</string>
+        <string name="d_7">10</string>
+
+    <string name="Q8">8. If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies?</string>
+        <string name="a_8">True</string>
+        <string name="b_8">False</string>
+
+    <string name="submit">Submit</string>
+</resources>
